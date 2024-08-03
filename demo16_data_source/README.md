@@ -1,0 +1,4 @@
+/*
+Helps to gather information from source or another terraform project
+
+*/
